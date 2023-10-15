@@ -1,5 +1,5 @@
 <!-- HTML Tags for GitHub README -->
-<h1>Predicting Petrobras Stock Prices with Recurrent Neural Networks (RNN) - GitHub README</h1>
+<h1>Predicting Petrobras Stock Prices with Recurrent Neural Networks (RNN)</h1>
 <p>This repository contains code for predicting stock prices using a Recurrent Neural Network (RNN). The RNN is implemented with the 'rnn' library in R, and data manipulation is performed using 'dplyr' and 'ggplot2'.</p>
 <h2>Table of Contents</h2>
 <ul>
